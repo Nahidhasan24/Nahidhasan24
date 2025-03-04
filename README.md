@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahidhasan24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/86458e0d-9d94-4aba-95f6-abb239947742.svg)](https://wakatime.com/@86458e0d-9d94-4aba-95f6-abb239947742)
+
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Java, Node.js**
