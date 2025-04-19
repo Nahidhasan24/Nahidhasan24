@@ -7,7 +7,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/86458e0d-9d94-4aba-95f6-abb239947742.svg)](https://wakatime.com/@86458e0d-9d94-4aba-95f6-abb239947742)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** , **Deep Learning**
 
 - 💬 Ask me about **Java, Node.js, Android**
 
