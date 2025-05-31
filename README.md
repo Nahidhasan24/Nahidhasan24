@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React** , **Deep Learning**
 
-- 💬 Ask me about **Java, Node.js, Android**
+- 💬 Ask me about **Java, NodeJs, NextJs, React Native, Android**
 
 - 📫 How to reach me: **nahidsoftware24@gmail.com**
 
