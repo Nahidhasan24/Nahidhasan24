@@ -7,9 +7,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/86458e0d-9d94-4aba-95f6-abb239947742.svg)](https://wakatime.com/@86458e0d-9d94-4aba-95f6-abb239947742)
 
-- 🌱 I’m currently learning **React** , **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Java, NodeJs, NextJs, React Native, Android**
+- 💬 Ask me about **Java, NodeJs, NextJs, Android**
 
 - 📫 How to reach me: **nahidsoftware24@gmail.com**
 
