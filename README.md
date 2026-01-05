@@ -14,7 +14,7 @@
 ---
 
 ### 🌱 About Me
-I am a **full-stack software engineer** passionate about designing scalable, maintainable, and high-performance applications. I thrive in environments where innovation meets practicality and enjoy leveraging **modern technologies** to solve real-world problems.  
+I am a **full-stack software developer** passionate about designing scalable, maintainable, and high-performance applications. I thrive in environments where innovation meets practicality and enjoy leveraging **modern technologies** to solve real-world problems.  
 
 Currently, I am enhancing my expertise in **Deep Learning** and AI-driven solutions while continuing to build **full-stack web and mobile applications**.
 
