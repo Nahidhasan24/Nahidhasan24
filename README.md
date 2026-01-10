@@ -50,7 +50,6 @@ Currently, I am enhancing my expertise in **Deep Learning** and AI-driven soluti
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahidhasan24&theme=radical" alt="Activity Graph" />
 </div>
----
 
 ### 🛠 Tech Stack
 <p align="left">
