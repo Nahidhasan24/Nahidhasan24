@@ -68,9 +68,3 @@ Currently, I am enhancing my expertise in **Deep Learning** and AI-driven soluti
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nahidhasan24&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidhasan24&layout=compact&hide=html,css&theme=radical" alt="Top Languages" />
-</p>
