@@ -1,9 +1,9 @@
 <img src="coding.gif" alt="MasterHead" style="max-width:100%; display:block; margin:auto; border-radius:12px;" />
 
 <h1 align="center">Hi 👋, I'm Nahid Hasan</h1>
-<h3 align="center">
-  Full-Stack Developer | Deep Learning Enthusiast | Technology Innovator from Bangladesh 🇧🇩
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Deep+Learning+Enthusiast;AI+%26+Web+Technology+Innovator;From+Bangladesh+🇧🇩" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nahidhasan24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
