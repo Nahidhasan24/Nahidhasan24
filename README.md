@@ -84,7 +84,7 @@ Currently, I am:
   <a href="https://github.com/nahidhasan24" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
   </a>
-  <a href="https://linkedin.com/in/nahidhasan24" target="_blank">
+  <a href="https://www.linkedin.com/in/nahid-hasan-24ba362b7/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/>
   </a>
   <a href="https://twitter.com/nahidhasan24" target="_blank">
